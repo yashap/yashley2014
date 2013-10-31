@@ -5,19 +5,7 @@ body {
 }
 
 .navbar {
-	background-image: linear-gradient(bottom, rgba(47,40,56,0.95) 0%, rgba(101,80,125,0.95) 100%);
-	background-image: -o-linear-gradient(bottom, rgba(47,40,56,0.95) 0%, rgba(101,80,125,0.95) 100%);
-	background-image: -moz-linear-gradient(bottom, rgba(47,40,56,0.95) 0%, rgba(101,80,125,0.95) 100%);
-	background-image: -webkit-linear-gradient(bottom, rgba(47,40,56,0.95) 0%, rgba(101,80,125,0.95) 100%);
-	background-image: -ms-linear-gradient(bottom, rgba(47,40,56,0.95) 0%, rgba(101,80,125,0.95) 100%);
-
-	background-image: -webkit-gradient(
-		linear,
-		left bottom,
-		left top,
-		color-stop(0, rgba(47,40,56,0.95)),
-		color-stop(1, rgba(101,80,125,0.95))
-	);
+	background: #201722 url('../images/navbg.png') repeat left top;
 }
 
 .navbar .navbar-brand {
