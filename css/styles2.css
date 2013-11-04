@@ -1,10 +1,22 @@
+/* Fonts */
+@font-face {
+  font-family: 'AlexBrush';
+  src: url('../fonts/AlexBrush-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'lmsans10';
+  src: url('../fonts/lmsans10-regular.otf') format('opentype');
+}
+
+
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
+  font-family: lmsans10;
 }
 
 
@@ -14,7 +26,7 @@ body {
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
@@ -54,8 +66,9 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  min-width: 100%;
+  width: 1200px;
   height: 500px;
+  overflow: hidden;
 }
 
 
@@ -111,9 +124,10 @@ body {
   }
 
   /* Navbar positioning foo */
+  /*
   .navbar-wrapper {
     margin-top: 20px;
-  }
+  }*/
   .navbar-wrapper .container {
     padding-left:  15px;
     padding-right: 15px;
