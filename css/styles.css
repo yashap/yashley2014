@@ -5,7 +5,7 @@ body {
 }
 
 .navbar {
-	background: #201722 url('../images/navbg.png') repeat left top;
+	background: #2c465b;
 }
 
 .navbar .navbar-brand {
@@ -22,7 +22,7 @@ body {
 }
 
 .jumbotron {
-	background-color: rgb(192, 175, 214);
+	background: #f5cf98;
 }
 
 .jumbotron .container .form-group {
