@@ -1,0 +1,660 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fe",
+				"featurette-heading"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"is",
+				"IS"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background-origin"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"sp",
+				"letter-spacing"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"outp",
+				"outputFile"
+			],
+			[
+				"output",
+				"output"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"border-bo",
+				"border-bottom-right-radius"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index2.html",
+			"settings":
+			{
+				"buffer_size": 96215,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles2.css",
+			"settings":
+			{
+				"buffer_size": 2966,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/application.js",
+			"settings":
+			{
+				"buffer_size": 763,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"opin i",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"jqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"tex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snipp",
+				"Snippet: If Condition"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"repl pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Python"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: Python"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/coding_notes/sublime-text-2-notes",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+		"/Users/yasha.podeswa/buttons.css",
+		"/Users/yasha.podeswa/Desktop/GA_notes",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/bi_queries/SQL_queries/Returns_1_record_per_member.sql",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/recipes/parmesan_asparagus.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/recipes/pan_fried_sole.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/recipes/tartar_sauce.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/redip",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/coding_notes/sublime-hacks.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/coding_notes/sample-code",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/temp_scripts/app.py",
+		"/Users/yasha.podeswa/.bash_profile",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/Carousel Template for Bootstrap_files/styles2.css",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/index2.html",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/User/Default.sublime-keymap",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-keymap",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/css/styles.css",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/Carousel Template for Bootstrap_files/jquery-1.10.2.min.js",
+		"/Users/yasha.podeswa/Desktop/HSU Monthly Charts.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/bi_queries/Online Revenue Team unsorted queries/sql_counts.sql",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/bi_queries/Personal_config_files/Yasha/.bash_profile",
+		"/Users/yasha.podeswa/Desktop/test.js",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/useful_SQL_and_R/.gitignore",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/useful_SQL_and_R/the_queries.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/newbie_coding_club/main_site/css/styles.css",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/newbie_coding_club/main_site/index.html",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/newbie_coding_club/bootstrap_demo/index.html",
+		"/Users/yasha.podeswa/.bash_history",
+		"/tmp/subl stdin 1HJNUr.txt",
+		"/tmp/subl stdin 8Apukp.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/bi_queries/Online Revenue Team unsorted queries/the_queries.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/bi_queries/Online Revenue Team unsorted queries/SORT_ME_yasha_queries.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/martello/index.html",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/useful_SQL_and_R/w3schools_notes.txt",
+		"/Users/yasha.podeswa/Documents/data_projects/2013-10-28 - HSU RJ changes (Free Users, Higher Ed, etc)/hsu_info_we_want.sql",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/martello/about.html",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/martello/programs.html",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/martello/css/bootstrap.css",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/martello/css/styles.css",
+		"/Users/yasha.podeswa/Desktop/Martello Notes/Coming Soon.html",
+		"/Users/yasha.podeswa/Desktop/Martello Notes/martellologins.txt",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/css/bootstrap.css",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/newbie_coding_club/twitter_app/css/styles.css",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/newbie_coding_club/twitter_app/index.html",
+		"/Users/yasha.podeswa/Documents/data_projects/1.16 - Common R Scripts/SQL query 2013-10-03 10-29-45 PDT.txt",
+		"/Users/yasha.podeswa/Downloads/Churn_analysis_whereclause (1).sql",
+		"/Users/yasha.podeswa/Desktop/Branding",
+		"/Users/yasha.podeswa/Desktop/Direct Response",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/school_site/index.html",
+		"/Users/yasha.podeswa/Documents/data_projects/2013-08-28 - Pro Segments for Raquel/non-en lang - en country - with addons.txt",
+		"/Users/yasha.podeswa/Documents/data_projects/2013-08-28 - Pro Segments for Raquel/non-en lang - en country - no addons.txt",
+		"/Users/yasha.podeswa/Documents/data_projects/2013-08-28 - Pro Segments for Raquel/en lang - non-en country - with addons.txt",
+		"/Users/yasha.podeswa/Documents/data_projects/2013-08-28 - Pro Segments for Raquel/en lang - non-en country - no addons.txt",
+		"/Users/yasha.podeswa/Documents/data_projects/2013-08-28 - Pro Segments for Raquel/en lang - en country - with addons.txt",
+		"/Users/yasha.podeswa/Documents/data_projects/2013-08-28 - Pro Segments for Raquel/en lang - en country - no addons.txt",
+		"/Users/yasha.podeswa/Desktop/Everything else/newbie_coding_club/main_site/index.html",
+		"/Users/yasha.podeswa/Desktop/Everything else/newbie_coding_club/main_site/css/styles.css",
+		"/Users/yasha.podeswa/Desktop/Positioning_demo/positioning.html",
+		"/Users/yasha.podeswa/Desktop/HTML demo/steve_mynett_demo/styles.css",
+		"/Users/yasha.podeswa/Desktop/HTML demo/steve_mynett_demo/stylesheet.css",
+		"/Users/yasha.podeswa/Desktop/HTML demo/Katies website/YSR_Backup/images/styles.css",
+		"/Users/yasha.podeswa/Desktop/HTML demo/Katies website/YSR_Backup/index.html",
+		"/Users/yasha.podeswa/Desktop/Everything else/Web design/Katies website/ysrFTP/tempBlog.html",
+		"/Users/yasha.podeswa/Desktop/Everything else/Web design/Katies website/public_html/contact.html",
+		"/Users/yasha.podeswa/Desktop/Everything else/Web design/Katies website/public_html/tempBlog.html",
+		"/Users/yasha.podeswa/Desktop/Everything else/Web design/Katies website/public_html/images/styles.css",
+		"/Users/yasha.podeswa/Desktop/Everything else/Web design/Katies website/public_html/casa.html",
+		"/Users/yasha.podeswa/Desktop/Everything else/Web design/Katies website/public_html/index.html",
+		"/Users/yasha.podeswa/Desktop/Everything else/Web design/Katies website/public_html/js/infinite-rotator.js",
+		"/Users/yasha.podeswa/Desktop/jquery-infinite-rotator/css/style2.css",
+		"/Users/yasha.podeswa/Desktop/jquery-infinite-rotator/index2.html",
+		"/Users/yasha.podeswa/Desktop/jquery-infinite-rotator/unstyled.html",
+		"/Users/yasha.podeswa/Desktop/Katies website/public_html/images/styles.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alt",
+			"opt",
+			"Home",
+			"<li><a href=\"#\">",
+			"First Payment date",
+			"APROPRIATE DATE SET",
+			"SET",
+			"AriaPayments",
+			"package",
+			"snip",
+			"Operation Table:",
+			"Operation Column:",
+			"Operation:",
+			"Timestamp Column:",
+			"Operation:",
+			"Operation Column:",
+			"Operation Table:",
+			"seesmic",
+			"(ariapayments) pro",
+			"(AriaPayments) Number of Pro Paying Users",
+			"Operation Table:",
+			"Dimensions:",
+			"\"command\":",
+			"\"expand_selection\"",
+			"Operation Table:",
+			"is_seesmic	",
+			"Dimensions:",
+			"Filter:",
+			"Operation Table:",
+			"Hide Details |Edit |Delete",
+			"Operation Table:",
+			"    ",
+			"	",
+			"AND",
+			"alt+w",
+			"env",
+			"path",
+			"+k",
+			"Edit Source",
+			"(Source:",
+			" Edit Source) ",
+			"(Source: ",
+			" Edit Source) ",
+			"(Source: ",
+			" Edit Source)",
+			"activity",
+			"acti",
+			"activt",
+			"activ",
+			"text",
+			"full_name",
+			"screen_name",
+			"obama",
+			"InvoicePayments",
+			"DONE ",
+			"cdANDls",
+			"incre",
+			"CMD-OPT",
+			"hello",
+			"<meta",
+			"meta",
+			"<meta",
+			"tall",
+			"height",
+			"featurette-image",
+			"img-circle",
+			"lmsans",
+			"navbar-wrapper",
+			"900x500",
+			"navbar",
+			"http",
+			"pitch",
+			"(Revenue, ",
+			" OR email = ",
+			"@media",
+			"btn",
+			"submit",
+			"Press+",
+			"sn.member_id",
+			"@media",
+			".container",
+			".navbar-fixed-top",
+			".navbar",
+			"navbar-brand",
+			"jumbotron",
+			"maincontainer",
+			"bottombar",
+			"topbar",
+			"font",
+			"transform",
+			"850",
+			"family",
+			"<h5",
+			"<h4",
+			"<h",
+			"blue",
+			"pro_indicat",
+			"radius",
+			"middle",
+			"steel",
+			"middl",
+			"main-image",
+			"logo",
+			"container",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(",
+			"' OR m.email = '",
+			"member_id"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index2.html",
+					"settings":
+					{
+						"buffer_size": 96215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles2.css",
+					"settings":
+					{
+						"buffer_size": 2966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/application.js",
+					"settings":
+					{
+						"buffer_size": 763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"Carousel Template for Bootstrap_files/styles2.css"
+			],
+			[
+				".css",
+				"css/styles.css"
+			],
+			[
+				"file",
+				"Carousel Template for Bootstrap_files/jquery-1.10.2.min.js"
+			],
+			[
+				"bash",
+				"Personal_config_files/Yasha/.bash_profile"
+			],
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true
+}
