@@ -119,37 +119,37 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index2.html",
-			"settings":
-			{
-				"buffer_size": 96215,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/styles2.css",
-			"settings":
-			{
-				"buffer_size": 2966,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/application.js",
-			"settings":
-			{
-				"buffer_size": 763,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 47.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"http",
+				"HTTP Requester"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
 			[
 				"pro",
 				"Project: Save As"
@@ -164,10 +164,6 @@
 			],
 			[
 				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -251,7 +247,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 575.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -268,7 +264,13 @@
 	},
 	"file_history":
 	[
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/index2.html",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/css/styles2.css",
+		"/Users/yasha.podeswa/Desktop/my-class.php",
 		"/Users/yasha.podeswa/Documents/everything_else/git_repos/coding_notes/sublime-text-2-notes",
+		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/yashley2014.sublime-project",
+		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/js/application.js",
 		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
 		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/README.md",
 		"/Users/yasha.podeswa/buttons.css",
@@ -288,7 +290,6 @@
 		"/Users/yasha.podeswa/Documents/everything_else/git_repos/temp_scripts/app.py",
 		"/Users/yasha.podeswa/.bash_profile",
 		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/Carousel Template for Bootstrap_files/styles2.css",
-		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/index2.html",
 		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/User/Default.sublime-keymap",
 		"/Users/yasha.podeswa/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-keymap",
 		"/Users/yasha.podeswa/Documents/everything_else/git_repos/yashley2014/css/styles.css",
@@ -365,6 +366,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"file",
 			"alt",
 			"opt",
 			"Home",
@@ -490,92 +492,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index2.html",
-					"settings":
-					{
-						"buffer_size": 96215,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								383,
-								383
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/styles2.css",
-					"settings":
-					{
-						"buffer_size": 2966,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "js/application.js",
-					"settings":
-					{
-						"buffer_size": 763,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -655,6 +573,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 165.0,
+	"side_bar_width": 236.0,
 	"status_bar_visible": true
 }
