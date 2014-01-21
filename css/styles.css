@@ -1,81 +1,89 @@
-/* Fonts */
-@font-face {
-  font-family: 'AlexBrush';
-  src: url('../fonts/AlexBrush-Regular.ttf') format('truetype');
-}
+/*
+#95bbf5 --> light blue, highlights/active
+#727575 --> dark grey, text
+#a5a9a9 --> lighter grey, hover text
+#ffffff --> white
+ */
 
-@font-face {
-  font-family: 'lmsans10';
-  src: url('../fonts/lmsans10-regular.otf') format('opentype');
-}
-
-/* Move down content because we have a fixed navbar that is 50px tall */
+/* General body styles
+-------------------------------------------------- */
 body {
-  padding-top: 50px;
-  padding-bottom: 20px;
-  font-family: lmsans10;
+	padding-top: 50px;
 }
 
-.navbar {
-	background: #2c465b;
+/* Navbar
+-------------------------------------------------- */
+.navbar-default {
+	background-color: #ffffff;
+	border-color: #95bbf5;
+}
+.navbar-default .navbar-brand {
+	color: #727575;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+	color: #a5a9a9;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #727575;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+	color: #a5a9a9;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+	color: #ffffff;
+	background-color: #95bbf5;
+}
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+	color: #ffffff;
+	background-color: #95bbf5;
+}
+.navbar-default .navbar-nav > .dropdown > a .caret {
+	border-top-color: #727575;
+	border-bottom-color: #727575;
+}
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+	border-top-color: #ffffff;
+	border-bottom-color: #ffffff;
+}
+.navbar-default .navbar-nav > .open > a .caret, 
+.navbar-default .navbar-nav > .open > a:hover .caret, 
+.navbar-default .navbar-nav > .open > a:focus .caret {
+	border-top-color: #ffffff;
+	border-bottom-color: #ffffff;
+}
+.navbar-default .navbar-toggle {
+	border-color: #95bbf5;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+	background-color: #95bbf5;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #727575;
+}
+@media (max-width: 767px) {
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+		color: #727575;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+		color: #ffffff;
+	}
 }
 
-.navbar .navbar-brand {
-	color: white;
-	font-size: 2em;
-	font-family: AlexBrush;
+/* Navbar
+-------------------------------------------------- */
+/* Pad the edges of the mobile views a bit */
+.marketing {
+	padding: 50px 15px 15px 0;
 }
-
-.navbar span {
-	color: #f59a91;
-}
-
-.navbar-nav {
-	float: right;
-}
-
-.jumbotron {
-	background: #f5cf98;
-	color: white;
-}
-
-.jumbotron h1 {
-	font-family: AlexBrush;
-}
-
-.banner {
-  background: url(../images/dining_room_1200_500.jpg) no-repeat;
-  background-position: center;
-  height: 500px;
-  overflow: hidden;
-}
-
-.black-shadow {
-	text-shadow: 1px 1px 5px black;
-}
-
-
-
-/* Extra small devices (phones, up to 480px) */
-/* No media query since this is the default in Bootstrap */
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-.jumbotron .container h1 {
-	font-size: 2em;
-}
-}
-
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-.jumbotron .container h1 {
-	font-size: 2.5em;
-}
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-.jumbotron .container h1 {
-	font-size: 3em;
-}
+.marketing .col-md-4 {
+	text-align: center;
 }

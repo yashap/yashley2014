@@ -1,108 +1,121 @@
 <!DOCTYPE html>
-<!-- saved from url=(0043)http://getbootstrap.com/examples/jumbotron/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="images/favicon.png">
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Event info, online RSVP, and car pool organizing for our wedding at Dolphins Resort!">
+	<meta name="author" content="Yasha Podeswa">
+	<title>yashley2014</title>
+	<!-- Styles -->
+	<!-- Bootstrap core CSS -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<!-- Site-wide css -->
+	<link href="css/styles.css" rel="stylesheet">
+</head>
 
-    <title>yashley2014</title>
+<body>
+	<!-- Navbar -->
+	<div class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<!-- Button when collapsed -->
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<!-- site title -->
+				<a class="navbar-brand" href="index.html">yashley2014</a>
+			</div>
+			<!-- items to potentially collapse -->
+			<div class="collapse navbar-collapse">
+				<!-- Menu items -->
+				<ul class="nav navbar-nav">
+					<li class="active"><a href="index.html">Home</a></li>
+					<li><a href="details.html">Wedding Details</a></li>
+					<li><a href="rsvp.html">RSVP</a></li>
+					<li><a href="carpool.html">Car Pool</a></li>
+				</ul>
+			</div><!--/.navbar-collapse -->
+		</div><!--/.container -->
+	</div><!--/.navbar-default -->
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+	<!-- Main body content -->
+	<div class="container">
 
-    <!-- Custom styles for this template -->
-    <link href="css/styles.css" rel="stylesheet">
+		<!--  Carousel -->
+		<!-- Main wrapper, .slide for animation -->
+		<div id="_hero-carousel" class="carousel slide">
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+				<li data-target="#_hero-carousel" data-slide-to="0" class="active"></li>
+				<li data-target="#_hero-carousel" data-slide-to="1" class=""></li>
+				<li data-target="#_hero-carousel" data-slide-to="2" class=""></li>
+			</ol>
+			<!-- images and captions -->
+			<div class="carousel-inner">
+				<div class="item active">
+					<img src="images/carousel_main_lawn_lg.jpg" alt="" />
+					<div class="carousel-caption">
+						<h3>Small blurb about the image</h3>
+					</div>
+				</div>
+				<div class="item">
+					<img src="images/carousel_lodge_night_lg.jpg" alt="" />
+					<div class="carousel-caption">
+						<h3>Small blurb about the image</h3>
+					</div>
+				</div>
+				<div class="item">
+					<img src="images/carousel_dining_room_lg.jpg" alt="" />
+					<div class="carousel-caption">
+						<h3>Small blurb about the image</h3>
+					</div>
+				</div>
+			</div><!-- /.carousel-inner -->
+			<!-- Next and previous controls -->
+			<a class="left carousel-control" href="#_hero-carousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+			<a class="right carousel-control" href="#_hero-carousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+		</div><!-- /.carousel -->
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="../../assets/js/html5shiv.js"></script>
-      <script src="../../assets/js/respond.min.js"></script>
-    <![endif]-->
-  </head>
-
-  <body style="">
-
-    <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand black-shadow" href="#">Yashley<span>2014</span></a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav black-shadow">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">RSVP</a></li>
-            <li><a href="#">Get a Room!</a></li>
-            <li><a href="#">Carpool</a></li>
-          </ul>
-        </div><!--/.navbar-collapse -->
-      </div>
-    </div>
-
-    <!-- Main jumbotron for a primary marketing message or call to action
-    <div class="jumbotron banner black-shadow">
-      <div class="container">
-        <h1>Main headline here</h1>
-        <p>Details about the headline</p>
-      </div>
-    </div>
-    -->
-
-    <!-- Carousel -->
-    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-      </ol>
-
-      <!-- Wrapper for slides -->
-      <div class="carousel-inner">
-        <div class="item active">
-          <img src="..." alt="...">
-          <div class="carousel-caption">
-            ...
-          </div>
-        </div>
-        ...
-      </div>
-
-      <!-- Controls -->
-      <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-      </a>
-      <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-      </a>
-
-    </div>
+		<div class="marketing">
+			<div class="row">
+				<div class="col-md-4">
+					<img class="img-circle" style="width: 140px; height: 140px;" src="images/lodge_140x140.jpg">
+					<h2>Wedding Details</h2>
+					<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+					<p><a class="btn btn-default" href="http://getbootstrap.com/examples/carousel/#" role="button">View details »</a></p>
+				</div><!-- /.col-lg-4 -->
+				<div class="col-md-4">
+					<img class="img-circle" style="width: 140px; height: 140px;" src="images/rsvp_140x140.jpg">
+					<h2>RSVP</h2>
+					<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+					<p><a class="btn btn-default" href="http://getbootstrap.com/examples/carousel/#" role="button">View details »</a></p>
+				</div><!-- /.col-lg-4 -->
+				<div class="col-md-4">
+					<img class="img-circle" style="width: 140px; height: 140px;" src="images/ferry_140x140.jpg">
+					<h2>Car Pool</h2>
+					<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+					<p><a class="btn btn-default" href="http://getbootstrap.com/examples/carousel/#" role="button">View details »</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /.marketing -->
 
 
+	</div><!-- /.container -->
 
-    <div class="container">
-
-      <hr>
-
-      <footer>
-        <p>Footer stuff here</p>
-      </footer>
-    </div> <!-- /container -->
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./js/jquery.js"></script>
-    <script src="./js/bootstrap.js"></script>
-    <script src="./js/application.js"></script>
-  
-
-<script id="hiddenlpsubmitdiv" style="display: none;"></script><script>try{for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){ var lastpass_f = document.forms[lastpass_iter]; if(typeof(lastpass_f.lpsubmitorig2)=="undefined"){ lastpass_f.lpsubmitorig2 = lastpass_f.submit; lastpass_f.submit = function(){ var form=this; var customEvent = document.createEvent("Event"); customEvent.initEvent("lpCustomEvent", true, true); var d = document.getElementById("hiddenlpsubmitdiv"); for(var i = 0; i < document.forms.length; i++){ if(document.forms[i]==form){ d.innerText=i; } } d.dispatchEvent(customEvent); form.lpsubmitorig2(); } } }}catch(e){}</script></body></html>
+	<!-- JavaScript -->
+	<!-- jQuery -->
+	<script src="js/jquery-1.10.2.min.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Script to load carousel roations once document is ready, as opposed to on-click -->
+	<script>
+		$(document).ready(function() {
+			$('.carousel').carousel({
+				interval: 5500
+			});
+		});
+	</script>
+</body>
+</html>
