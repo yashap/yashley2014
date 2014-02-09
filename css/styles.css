@@ -3,16 +3,31 @@
 #727575 --> dark grey, text
 #a5a9a9 --> lighter grey, hover text
 #ffffff --> white
- */
+*/
 
 /* General body styles
 -------------------------------------------------- */
 body {
 	padding-top: 50px;
 }
+h2 {
+	font-family: 'Sacramento', cursive;
+	font-size: 2.5em;
+	color: #727575;
+}
+.btn-default {
+	font-family: 'Sacramento', cursive;
+	font-size: 1.5em;
+	color: #727575;
+}
 
 /* Navbar
 -------------------------------------------------- */
+a.navbar-brand {
+	font-family: 'Sacramento', cursive;
+	font-size: 1.5em;
+	padding-right: 25px;
+}
 .navbar-default {
 	background-color: #ffffff;
 	border-color: #95bbf5;
@@ -78,9 +93,9 @@ body {
 	}
 }
 
-/* Navbar
+
+/* Pad the edges of the mobile views a bit
 -------------------------------------------------- */
-/* Pad the edges of the mobile views a bit */
 .marketing {
 	padding: 50px 15px 15px 0;
 }
