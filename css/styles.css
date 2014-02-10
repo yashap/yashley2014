@@ -96,6 +96,24 @@ a.navbar-brand {
 	}
 }
 
+/* Carousel
+-------------------------------------------------- */
+.carousel-caption > h3 {
+	font-family: 'Sacramento', cursive;
+	font-size: 2.3em;
+	text-shadow: 2px 1px 1px black;
+}
+.carousel-caption > p {
+	font-size: 1.2em;
+	text-shadow: 2px 1px 1px black;
+}
+@media (max-width: 600px) {
+	.carousel-caption > h3,
+	.carousel-caption > p {
+		display: none;
+	}
+}
+
 
 /* Pad the edges of the mobile views a bit
 -------------------------------------------------- */
