@@ -3,6 +3,12 @@
 body {
 	padding-top: 50px;
 }
+h1 {
+	font-family: 'Sacramento', cursive;
+	font-size: 4em;
+	color: #727575;
+	margin: 35px 0 10px 0;
+}
 h2 {
 	font-family: 'Sacramento', cursive;
 	font-size: 2.5em;
@@ -13,6 +19,10 @@ h3 {
 	font-size: 2.3em;
 	text-shadow: 2px 1px 1px black;
 	color: white;
+}
+.thanks{
+	font-size: 1.5em;
+	color: #727575;
 }
 div.col-md-4 {
 	padding-bottom: 30px;
@@ -37,6 +47,9 @@ div.col-md-4 {
 	background-color: #7d9dce;
 	border-color: #7d9dce;
 	color: white;
+}
+a:hover {
+	text-decoration: none;
 }
 
 /* Banners
@@ -186,6 +199,11 @@ li.ss-choice-item > label {
 }
 .ss-item {
 	margin: 30px 0 30px 0;
+}
+input[type="text"] {
+	border-radius: 5px;
+	background-color: #e7f1ff;
+	border: 2px solid #95bbf5;
 }
 
 /* Pad the edges of the mobile views a bit

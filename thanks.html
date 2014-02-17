@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Google Web Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Sacramento' rel='stylesheet' type='text/css'>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Event info, online RSVP, and carpool organizing for our wedding at Dolphins Resort!">
+	<meta name="author" content="Yasha Podeswa">
+	<title>yashley2014</title>
+	<!-- Styles -->
+	<!-- Bootstrap core CSS -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<!-- Site-wide css -->
+	<link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+	<!-- Navbar -->
+	<div class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<!-- Button when collapsed -->
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<!-- site title -->
+				<a class="navbar-brand" href="index.html">Yashley 2014</a>
+			</div>
+			<!-- items to potentially collapse -->
+			<div class="collapse navbar-collapse">
+				<!-- Menu items -->
+				<ul class="nav navbar-nav">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="weekend.html">Wedding Weekend</a></li>
+					<li><a href="carpool.html">Carpool</a></li>
+					<li class="active"><a href="rsvp.html">RSVP</a></li>
+				</ul>
+			</div><!--/.navbar-collapse -->
+		</div><!--/.container -->
+	</div><!--/.navbar-default -->
+
+	<!-- Main body content -->
+	<div class="container">
+
+		<h1 class="text-center">Thanks!</h2>
+		<p class="text-center thanks">We got your RSVP, but feel free to keep browsing!</p>
+		<a class="btn btn-default" href="rsvp.html" role="button" style="display: block; width: 283px; margin: 0 auto;">Need to RSVP for someone else?</a>
+
+		<div class="marketing">
+			<div class="row">
+				<div class="col-md-4">
+					<a href="index.html">
+						<img class="img-circle" style="width: 140px; height: 140px;" src="images/home_140x140.jpg">
+					</a>
+					<a href="index.html">
+						<h2>Home</h2>
+					</a>
+				</div><!-- /.col-md-4 -->
+				<div class="col-md-4">
+					<a href="weekend.html">
+						<img class="img-circle" style="width: 140px; height: 140px;" src="images/wedding_weekend_140x140.jpg">
+					</a>
+					<a href="weekend.html">
+						<h2>Wedding Weekend</h2>
+					</a>
+				</div><!-- /.col-md-4 -->
+				<div class="col-md-4">
+					<a href="carpool.html">
+						<img class="img-circle" style="width: 140px; height: 140px;" src="images/car_pool_140x140.jpg">
+					</a>
+					<a href="carpool.html">
+						<h2>Carpool</h2>
+					</a>
+				</div><!-- /.col-md-4 -->
+
+			</div><!-- /.row -->
+		</div><!-- /.marketing -->
+
+	</div><!-- /.container -->
+
+	<!-- JavaScript -->
+
+	<!-- jQuery -->
+	<script src="js/jquery-1.10.2.min.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Script to load carousel roations once document is ready, as opposed to on-click -->
+	<script>
+		$(document).ready(function() {
+			$('.carousel').carousel({
+				interval: 5000
+			});
+		});
+	</script>
+</body>
+</html>

@@ -52,7 +52,11 @@
 		</div>
 
 		<!-- Google form -->
-		<form action="https://docs.google.com/forms/d/1d2oM2McxzfaKHj8eUwfeNrk7FQgpbik3RXqC9bzE-MI/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
+
+		<!-- Custum re-direct -->
+		<script type="text/javascript">var submitted=false;</script>
+		<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='thanks.html';}"></iframe>
+		<form action="https://docs.google.com/forms/d/1d2oM2McxzfaKHj8eUwfeNrk7FQgpbik3RXqC9bzE-MI/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
 			<div role="list" class="google-form">
 
 				<!-- Question 1: Hey stranger, what's your name? -->
