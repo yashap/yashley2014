@@ -2,6 +2,7 @@
 -------------------------------------------------- */
 body {
 	padding-top: 50px;
+	font-weight: 200;
 }
 h1 {
 	font-family: 'Sacramento', cursive;
@@ -53,6 +54,18 @@ div.col-md-4 {
 }
 a:hover {
 	text-decoration: none;
+}
+.featurette p {
+	font-size: 1em;
+}
+@media (min-width: 600px) {
+	.featurette p {
+		font-size: 1.2em;
+	}
+}
+footer {
+	margin-bottom: 25px;
+	color: #a5a9a9;
 }
 
 /* Banners
