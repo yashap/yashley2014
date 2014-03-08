@@ -55,11 +55,17 @@ div.col-md-4 {
 a:hover {
 	text-decoration: none;
 }
-.featurette p {
+.featurette p,
+.sub-banner-col p,
+.marketing p {
 	font-size: 1em;
 }
 @media (min-width: 600px) {
-	.featurette p {
+	.marketing p {
+		font-size: 1.1em;
+	}
+	.featurette p,
+	.sub-banner-col p {
 		font-size: 1.2em;
 	}
 }
